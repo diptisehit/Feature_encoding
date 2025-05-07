@@ -99,4 +99,5 @@ print("Encoded Data:",encoded_data)
 
 It is  set of scikit-learn-style transformers for encoding categorical variables into numeric by means of different techniques.
 
-![image.png](attachment:9f4f53a8-2835-4b3d-91e2-69bd80003585.png)
+![image](https://github.com/user-attachments/assets/84b692bc-e8b3-4bb2-9b7b-621a11fe4bc5)
+
